@@ -376,7 +376,7 @@ margin-bottom: 3rem;
 
 .contact-list li{
 margin-bottom: 10px;
-display: block;
+display: flex;
 
 
 }
