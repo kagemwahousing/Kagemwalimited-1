@@ -5,7 +5,6 @@ scroll-behavior:smooth;
 box-sizing: border-box;
 font-family: 'poppins' , sans-serif;
 
-
 }
 
 body {
@@ -382,7 +381,7 @@ display: flex;
 }
 
 .contact-list i{
-display: inline-block;
+display: inline-flex;
 color: #0ef;
 font-size: 20px;
 font-weight: 600;
